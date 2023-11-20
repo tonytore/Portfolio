@@ -222,6 +222,8 @@ a:hover{
 /*ABOUT SECTION*/
 #about{
   position: relative;
+  width: 80%;
+  margin: 0 auto;
   
 }
 
@@ -242,7 +244,11 @@ a:hover{
 }
 
 .about_pic{
-  border-radius: 2rem;
+  border-radius: 50%;
+  width: 300px;
+ 
+  margin-left: 20px;
+
  
 
 }
@@ -275,6 +281,8 @@ a:hover{
 
 #experience {
   position: relative;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .experience-sub-title {
@@ -314,6 +322,8 @@ article .icon {
 
 #projects {
   position: relative;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .color-container {
